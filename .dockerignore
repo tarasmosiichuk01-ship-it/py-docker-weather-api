@@ -1,0 +1,6 @@
+venv
+.git
+__pacache__
+.idea
+*.pyc
+.env
