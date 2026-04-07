@@ -1,6 +1,6 @@
 venv
 .git
-__pacache__
+__pycache__
 .idea
 *.pyc
 .env
